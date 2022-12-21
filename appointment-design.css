@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: #5BC0BB;
+    text-decoration: none;
+    border: none;
+}
+.appointment-wrapper {
+    display: flex;
+}
+.appointment-box {
+    width: 60%;
+    background-color: #5BC0BB;
+}
+.right-part {
+    width: 40%;
+    padding: 77px;
+}
+input.name {
+    height: 38px;
+}
+.input-box {
+    margin: 77px;
+    margin-left: 370px;
+}
+.first-box-section {
+    padding: 6px;
+}
+.observation-box {
+    padding: 6px;
+    margin-bottom: 8px;
+}
+.btn-box {
+    padding: 13px;
+    background: white;
+    width: 150px;
+    margin-left: 7px;
+    border-radius: 3px;
+}
+.heading-color {
+    color: black;
+}
+.section-title {
+    margin-bottom: 40px;
+}
+.list-items {
+    height: 34px;
+    list-style-type: none;
+    color: black;
+}
+span.li-space-text {
+    color: black;
+    margin-left: 10px;
+}
+.more-btn {
+    background-color: #5BC0BB;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+}
+span.btn-color-text {
+    color: white;
+}
